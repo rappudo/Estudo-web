@@ -1,4 +1,3 @@
-<img width="612" height="408" alt="image" src="https://github.com/user-attachments/assets/26171c25-cfe3-419f-8982-098ddf6a68f7" />
 Sou apaixonado por programação web e, no momento, estou estudando conceitos fundamentais da área com foco em boas práticas e arquitetura moderna.
 Tenho interesse em várias linguagens — com destaque para Rust — e pretendo explorar também Java, C# e JavaScript ao longo deste repositório.
 Este repositório ficará em constante atualização: conforme eu aprender novos conceitos, vou documentar aqui projetos, evoluções, descobertas e pequenos estudos práticos.
